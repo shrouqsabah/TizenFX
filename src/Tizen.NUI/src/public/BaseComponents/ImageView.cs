@@ -952,7 +952,7 @@ namespace Tizen.NUI.BaseComponents
                 NotifyPropertyChanged();
             }
         }
-        
+
         private ReleasePolicyType InternalReleasePolicy
         {
             get
